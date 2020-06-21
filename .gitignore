@@ -115,3 +115,4 @@ media/
 # Other stuff
 /node_modules
 *.sw*
+/frontend/static/frontend/
